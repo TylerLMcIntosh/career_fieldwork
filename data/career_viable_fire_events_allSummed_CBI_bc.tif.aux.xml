@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>CBI_bc_sum</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3</MDI>
+      <MDI key="STATISTICS_MEAN">1.9370557359553</MDI>
+      <MDI key="STATISTICS_STDDEV">0.75362855772727</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">8.887</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
